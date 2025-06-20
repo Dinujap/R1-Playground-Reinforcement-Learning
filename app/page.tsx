@@ -537,6 +537,24 @@ const RLPlayground: React.FC = () => {
               <div>
                 <strong>Path Optimization:</strong> Over time, the agent converges on the shortest, safest path to the goal while avoiding obstacles.
               </div>
+              <div>
+                <strong>Author Of The Code:</strong> Dinuja Praneeth
+              </div>
+              <div>
+                <a href="https://github.com/Dinujap/R1-Playground-Reinforcement-Learning.git" target="_blank" rel="noopener noreferrer">
+                  GitHub Full Code
+                </a>
+              </div>
+              <div>
+                <a href="https://github.com/Dinujap" target="_blank" rel="noopener noreferrer">
+                  Visit GitHub
+                </a>
+              </div>
+              <div>
+                <a href="https://www.linkedin.com/in/dinujapraneeth/" target="_blank" rel="noopener noreferrer">
+                  Visit Linkedin Profile
+                </a>
+              </div>
             </div>
           </div>
         </div>
